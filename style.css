@@ -1,0 +1,160 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+
+nav a:hover {
+    background-color: #F2F2F2;
+    border-radius: 3px;
+    
+}
+
+nav {
+    
+    display: flex;
+    justify-content: left;
+}
+
+.link {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 10px;
+    display: flex;
+    
+    float: right;
+}
+
+.link:hover {
+    background-color: #151515;
+}
+
+.fott {
+   width: 800px; 
+   margin-bottom: 0px;
+   position: absolute;
+   left: 70%;
+}
+
+article .fotoo{
+  display: inline-block;
+  position: absolute;
+}
+
+.fotoo h1{
+  width: 400px;
+  position: absolute;
+  top: 40px;
+  right: 50%;
+}
+
+.fotoo .one{
+  width: 1000px;
+  position: absolute;
+  top: 200px;
+  left: 5%;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.fotoo .two{
+  width: 1000px;
+  position: absolute;
+  top: 320px;
+  left: 5%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fotoo .thre{
+  width: 980px;
+  position: absolute;
+  top: 440px;
+  left: 5%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fotoo .four{
+  width: 960px;
+  position: absolute;
+  top: 560px;
+  left: 5%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fotoo .five{
+  width: 950px;
+  position: absolute;
+  top: 755px;
+  left: 5%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fotoo .six{
+  width: 950px;
+  position: absolute;
+  top: 925px;
+  left: 5%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+
+.rotto {
+  width: 300px;
+  position: absolute;
+  top: 1000px;
+  right: 70%;
+  float: left;
+}
+
+article .rot{
+  display: inline-block;
+  position: absolute;
+}
+.rot .one{
+  width: 1000px;
+  position: absolute;
+  top: 1050px;
+  left: 30%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+}
+
+.tab {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 25px;
+    border-radius: 10px;
+    display: flex;
+    position: absolute;
+    left: 40%;
+    top: 1400px;
+    width: 200px;
+    padding-left: 80px;
+    
+}
+
+.tab:hover {
+    background-color: #151515;
+}
+
